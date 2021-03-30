@@ -1,4 +1,4 @@
-
+oioioi!! Eu sou Lucas Caldeira👋
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=realcaldeira&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realcaldeira&amp;layout=compact&amp;langs_count=8&amp;" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realcaldeira&amp;layout=compact&amp;langs_count=8&amp;theme=dracula" style="max-width:100%;">
 
