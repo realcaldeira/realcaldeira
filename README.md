@@ -2,7 +2,7 @@
 <div align="center">
 
   <div>
-    👋 Olá, me chamo Lucas Caldeira da Costa, sou estudante de Análise e Desenvolvimento de Sistemas na Uniftec/RS.
+    👋 Olá, me chamo Lucas Caldeira da Costa, sou formado em Análise e Desenvolvimento de Sistemas na Uniftec/RS e Pós graduado em FullStack na PUCRS.
     Amante de tecnologia desde pequeno 🖤, procuro evoluir constantemente minhas habilidades na parte de inteligência emocional e na área de tecnologia, é claro.
     Atualmente estou na turma do Ignite da Rocketseat e realizando os cursos da Alura.
   </div>
