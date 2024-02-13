@@ -2,9 +2,10 @@
 <div align="center">
 
   <div>
-    👋 Olá, me chamo Lucas Caldeira da Costa, sou formado em Análise e Desenvolvimento de Sistemas na Uniftec/RS e Pós graduado em FullStack na PUCRS.
-    Amante de tecnologia desde pequeno 🖤, procuro evoluir constantemente minhas habilidades na parte de inteligência emocional e na área de tecnologia, é claro.
-    Atualmente estou na turma do Ignite da Rocketseat e realizando os cursos da Alura.
+    👋 Olá, Mundo! Eu sou Lucas Caldeira da Costa. Sou um profissional formado em Análise e Desenvolvimento de Sistemas pela Uniftec/RS e possuo uma pós-graduação em FullStack pela PUCRS.
+    Desde a infância, tenho uma paixão profunda por tecnologia 🖤. Estou sempre buscando aprimorar minhas habilidades, tanto na área de tecnologia quanto no desenvolvimento da inteligência emocional. Acredito que o crescimento contínuo é a chave para o sucesso.
+    Atualmente, estou ampliando meus conhecimentos participando da turma do Ignite da Rocketseat e realizando diversos cursos na Alura. Estou ansioso para aplicar e compartilhar o que aprendi durante esses cursos.
+    Sinta-se à vontade para entrar em contato ou seguir meu progresso aqui no GitHub!
   </div>
 
 
