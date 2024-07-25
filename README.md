@@ -2,14 +2,9 @@
 <div align="center">
 
   <div>
-    👋 Olá, Mundo! Eu sou Lucas Caldeira da Costa. Sou um profissional formado em Análise e Desenvolvimento de Sistemas pela Uniftec/RS e possuo uma pós-graduação em FullStack pela PUCRS.
-    Desde a infância, tenho uma paixão profunda por tecnologia 🖤. Estou sempre buscando aprimorar minhas habilidades, tanto na área de tecnologia quanto no desenvolvimento da inteligência emocional. Acredito que o crescimento contínuo é a chave para o sucesso.
-    Atualmente, estou ampliando meus conhecimentos participando da turma do Ignite da Rocketseat e realizando diversos cursos na Alura. Estou ansioso para aplicar e compartilhar o que aprendi durante esses cursos.
-    Sinta-se à vontade para entrar em contato ou seguir meu progresso aqui no GitHub!
+    👋 Sou um Desenvolvedor de Software Sênior com vasta experiência em desenvolvimento frontend e backend, especializado em tecnologias modernas e metodologias ágeis. Possuo uma sólida formação acadêmica e uma trajetória profissional marcada pela atuação em projetos desafiadores e inovadores. Atualmente, estou cursando pós-graduação em Arquitetura e Desenvolvimento em Java na FIAP, além de possuir uma pós-graduação em Full Stack pela PUCRS.
   </div>
 
-
- 🚀 " O maior investimento que podemos fazer é em nós mesmos. " 🚀
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcaldeira)](https://github.com/realcaldeira/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcaldeira)](https://github.com/realcaldeira/github-readme-stats)
