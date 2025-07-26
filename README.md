@@ -2,7 +2,7 @@
 <div align="center">
 
   <div>
-    👋 Sou um Desenvolvedor de Software Sênior com vasta experiência em desenvolvimento frontend e backend, especializado em tecnologias modernas e metodologias ágeis. Possuo uma sólida formação acadêmica e uma trajetória profissional marcada pela atuação em projetos desafiadores e inovadores. Atualmente, estou cursando pós-graduação em Arquitetura e Desenvolvimento em Java na FIAP, além de possuir uma pós-graduação em Full Stack pela PUCRS.
+    👋 Sou um Desenvolvedor de Software Sênior com vasta experiência em desenvolvimento frontend e backend, especializado em tecnologias modernas e metodologias ágeis. Possuo uma sólida formação acadêmica e uma trajetória profissional marcada pela atuação em projetos desafiadores e inovadores. 
   </div>
 
 
